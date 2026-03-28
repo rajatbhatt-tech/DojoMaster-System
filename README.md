@@ -9,7 +9,7 @@
 * **Member Management**: Easily Add, View, or Delete members from the system.
 * **Attendance Tracker**: Records daily attendance automatically using the current date.
 * **Fee Tracking**: Keeps a simple record of whether a member has "Paid" or has "Pending" fees.
-* **Smart Reports**: Generates a "Monthly Attendance King" report to see top-performing students.
+* **Smart Reports**: Generates a "Monthly Attendance " report to see top-performing students.
 * **File Export**: Saves all reports into a `.txt` file so you can print or view them offline.
 
 ---
